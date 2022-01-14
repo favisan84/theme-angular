@@ -1,0 +1,21 @@
+{
+  "name": "theme-angular",
+  "version": "1.2.9",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/theme-angular.umd.js",
+  "module": "fesm5/theme-angular.js",
+  "es2015": "fesm2015/theme-angular.js",
+  "esm5": "esm5/theme-angular.js",
+  "esm2015": "esm2015/theme-angular.js",
+  "fesm5": "fesm5/theme-angular.js",
+  "fesm2015": "fesm2015/theme-angular.js",
+  "typings": "theme-angular.d.ts",
+  "metadata": "theme-angular.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
